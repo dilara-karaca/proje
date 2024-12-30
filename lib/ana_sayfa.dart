@@ -18,7 +18,7 @@ class AnaSayfa extends StatelessWidget {
             fontSize: 32,
           ),
         ),
-        backgroundColor: Colors.pinkAccent,
+        backgroundColor: Colors.orange,
         centerTitle: true,
       ),
       body: Center(
